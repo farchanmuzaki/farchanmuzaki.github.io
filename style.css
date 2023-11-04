@@ -1,0 +1,19 @@
+
+.imgku{
+	border-radius: 50%;
+	height: 200px;
+	
+}
+.logo{
+	border-radius: 50%;
+width: 60px;
+}
+.footer{
+margin-top: 250px;
+height:150px;
+position: relative;
+}
+.jumbotron{
+background-color: #e2edff;
+padding-top: 2rem;
+}
