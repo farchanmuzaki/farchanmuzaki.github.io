@@ -13,3 +13,6 @@ width: 60px;
 background-color: #e2edff;
 padding-top: 2rem;
 }
+.icon{
+	border-radius: 50%;
+}
