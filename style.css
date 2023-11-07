@@ -10,7 +10,7 @@ width: 60px;
 }
 
 .jumbotron{
-background-color: #e2edff;
+background-color: hsl(0, 0%, 0%);
 padding-top: 2rem;
 }
 .icon{
